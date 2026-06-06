@@ -1,5 +1,6 @@
 import { useState } from 'react'
 import NavigationBar from './components/NavigationBar';
+import Intro from './components/Intro';
 import "./style/landingPage.css"
 
 function App() {
@@ -8,6 +9,7 @@ function App() {
       {/* Intro Section */}
       <div className='myBG'>
       <NavigationBar />
+      <Intro />
       </div>
       {/* Intro Section End */}
     </div>
