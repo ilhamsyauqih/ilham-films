@@ -18,3 +18,17 @@
     text-shadow: 2px 2px black;
     letter-spacing: 3px;
 }
+
+.trending {
+    height: auto;
+    background: url("../assets/images/bg/spiderman.jpg");
+    background-size: cover;
+}
+
+.movieWrapper {
+    
+}
+
+.movieImage {
+    height: auto;
+}
