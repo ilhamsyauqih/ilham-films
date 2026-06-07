@@ -8,7 +8,7 @@ import morbius from "../assets/images/trending/morbius.jpg"
 
 const Trending = () => {
     return (
-        <Container>
+        <Container id="trending">
             <br />
             <h1 className="text-white">TRENDING MOVIES</h1>
             <br />

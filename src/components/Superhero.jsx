@@ -8,7 +8,7 @@ import supermanImage from "../assets/images/superhero/superman.jpg"
 
 const SuperHero = () => {
     return (
-        <Container>
+        <Container id="superhero">
             <br />
             <h1 className="text-white">SUPERHERO MOVIES</h1>
             <br />
