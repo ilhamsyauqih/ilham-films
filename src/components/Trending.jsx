@@ -9,7 +9,9 @@ import morbius from "../assets/images/trending/morbius.jpg"
 const Trending = () => {
     return (
         <Container>
-            <h1>TRENDING MOVIES</h1>
+            <br />
+            <h1 className="text-white">TRENDING MOVIES</h1>
+            <br />
             <Row>
                 <Col md={4} className="movieWrapper">
                     <Card className="bg-dark p-2 m-1 text-white text-center movieImage">

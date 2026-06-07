@@ -36,3 +36,9 @@
 .images {
     height: 500px;
 }
+
+.superhero {
+    height: auto;
+    background: url("../assets/images/bg/romance.jpg");
+    background-size: cover;
+}
