@@ -10,13 +10,13 @@ const SuperHero = () => {
     return (
         <Container>
             <br />
-            <h1 className="text-white">TRENDING MOVIES</h1>
+            <h1 className="text-white">SUPERHERO MOVIES</h1>
             <br />
             <Row>
                 <Col md={4} className="movieWrapper">
                     <Card className="bg-dark p-2 m-1 text-white text-center movieImage">
                         <Card.Img src={antmanImage} alt="Dune movies" className="images"/>
-                            <Card.Title className="text-center">Card title</Card.Title>
+                            <Card.Title className="text-center">ANT MAN</Card.Title>
                             <Card.Text className="text-left">
                                 This is a wider card with supporting text below as a natural lead-in
                                 to additional content.
@@ -27,7 +27,7 @@ const SuperHero = () => {
                 <Col md={4} className="movieWrapper">
                     <Card className="bg-dark p-2 m-1 text-white text-center movieImage">
                         <Card.Img src={avengerImage} alt="Everything movies" className="images"/>
-                            <Card.Title className="text-center">Card title</Card.Title>
+                            <Card.Title className="text-center">AVENGER</Card.Title>
                             <Card.Text className="text-left">
                                 This is a wider card with supporting text below as a natural lead-in
                                 to additional content.
@@ -38,7 +38,7 @@ const SuperHero = () => {
                 <Col md={4} className="movieWrapper">
                     <Card className="bg-dark p-2 m-1 text-white text-center movieImage">
                         <Card.Img src={batmanImage} alt="Infinite movies" className="images"/>
-                            <Card.Title className="text-center">Card title</Card.Title>
+                            <Card.Title className="text-center">BATMAN</Card.Title>
                             <Card.Text className="text-left">
                                 This is a wider card with supporting text below as a natural lead-in
                                 to additional content.
@@ -49,7 +49,7 @@ const SuperHero = () => {
                 <Col md={4} className="movieWrapper">
                     <Card className="bg-dark p-2 m-1 text-white text-center movieImage">
                         <Card.Img src={robinhoodImage} alt="Infinite movies" className="images"/>
-                            <Card.Title className="text-center">Card title</Card.Title>
+                            <Card.Title className="text-center">ROBIN HOOD</Card.Title>
                             <Card.Text className="text-left">
                                 This is a wider card with supporting text below as a natural lead-in
                                 to additional content.
@@ -60,7 +60,7 @@ const SuperHero = () => {
                 <Col md={4} className="movieWrapper">
                     <Card className="bg-dark p-2 m-1 text-white text-center movieImage">
                         <Card.Img src={spidermanImage} alt="Infinite movies" className="images"/>
-                            <Card.Title className="text-center">Card title</Card.Title>
+                            <Card.Title className="text-center">SPIDERMAN</Card.Title>
                             <Card.Text className="text-left">
                                 This is a wider card with supporting text below as a natural lead-in
                                 to additional content.
@@ -71,7 +71,7 @@ const SuperHero = () => {
                 <Col md={4} className="movieWrapper">
                     <Card className="bg-dark p-2 m-1 text-white text-center movieImage">
                         <Card.Img src={supermanImage} alt="Infinite movies" className="images"/>
-                            <Card.Title className="text-center">Card title</Card.Title>
+                            <Card.Title className="text-center">SUPERMAN</Card.Title>
                             <Card.Text className="text-left">
                                 This is a wider card with supporting text below as a natural lead-in
                                 to additional content.

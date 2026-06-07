@@ -16,7 +16,7 @@ const Trending = () => {
                 <Col md={4} className="movieWrapper">
                     <Card className="bg-dark p-2 m-1 text-white text-center movieImage">
                         <Card.Img src={duneImg} alt="Dune movies" className="images"/>
-                            <Card.Title className="text-center">Card title</Card.Title>
+                            <Card.Title className="text-center">DUNE</Card.Title>
                             <Card.Text className="text-left">
                                 This is a wider card with supporting text below as a natural lead-in
                                 to additional content.
@@ -27,7 +27,7 @@ const Trending = () => {
                 <Col md={4} className="movieWrapper">
                     <Card className="bg-dark p-2 m-1 text-white text-center movieImage">
                         <Card.Img src={everything} alt="Everything movies" className="images"/>
-                            <Card.Title className="text-center">Card title</Card.Title>
+                            <Card.Title className="text-center">EVERYTHING</Card.Title>
                             <Card.Text className="text-left">
                                 This is a wider card with supporting text below as a natural lead-in
                                 to additional content.
@@ -38,7 +38,7 @@ const Trending = () => {
                 <Col md={4} className="movieWrapper">
                     <Card className="bg-dark p-2 m-1 text-white text-center movieImage">
                         <Card.Img src={infinite} alt="Infinite movies" className="images"/>
-                            <Card.Title className="text-center">Card title</Card.Title>
+                            <Card.Title className="text-center">INFINITE</Card.Title>
                             <Card.Text className="text-left">
                                 This is a wider card with supporting text below as a natural lead-in
                                 to additional content.
@@ -49,7 +49,7 @@ const Trending = () => {
                 <Col md={4} className="movieWrapper">
                     <Card className="bg-dark p-2 m-1 text-white text-center movieImage">
                         <Card.Img src={joker} alt="Infinite movies" className="images"/>
-                            <Card.Title className="text-center">Card title</Card.Title>
+                            <Card.Title className="text-center">JOKER</Card.Title>
                             <Card.Text className="text-left">
                                 This is a wider card with supporting text below as a natural lead-in
                                 to additional content.
@@ -60,7 +60,7 @@ const Trending = () => {
                 <Col md={4} className="movieWrapper">
                     <Card className="bg-dark p-2 m-1 text-white text-center movieImage">
                         <Card.Img src={lightyear} alt="Infinite movies" className="images"/>
-                            <Card.Title className="text-center">Card title</Card.Title>
+                            <Card.Title className="text-center">LIGHT YEAR</Card.Title>
                             <Card.Text className="text-left">
                                 This is a wider card with supporting text below as a natural lead-in
                                 to additional content.
@@ -71,7 +71,7 @@ const Trending = () => {
                 <Col md={4} className="movieWrapper">
                     <Card className="bg-dark p-2 m-1 text-white text-center movieImage">
                         <Card.Img src={morbius} alt="Infinite movies" className="images"/>
-                            <Card.Title className="text-center">Card title</Card.Title>
+                            <Card.Title className="text-center">MORBIUS</Card.Title>
                             <Card.Text className="text-left">
                                 This is a wider card with supporting text below as a natural lead-in
                                 to additional content.
